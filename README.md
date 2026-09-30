@@ -1,5 +1,7 @@
 # Radar di mercato: sito pubblico del progetto
 
+**Online:** https://arcadio-pinto.github.io/radar-site/ (repository `Arcadio-Pinto/radar-site`, GitHub Pages dal ramo `main`, cartella principale).
+
 Tre pagine statiche (HTML e un foglio di stile, senza JavaScript, cookie, tracciamento né risorse esterne) da pubblicare con
 GitHub Pages. Servono ai portali degli sviluppatori (TikTok, Meta) come pagina del progetto, informativa sulla privacy e
 condizioni d'uso. Ogni pagina è in inglese, con la versione italiana sotto (ancora `#it`).
