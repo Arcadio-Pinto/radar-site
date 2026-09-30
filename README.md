@@ -12,19 +12,14 @@ condizioni d'uso. Ogni pagina è in inglese, con la versione italiana sotto (anc
 | `privacy.html` | Informativa sulla privacy (GDPR) |
 | `terms.html` | Condizioni d'uso essenziali |
 | `style.css` | Unico foglio di stile (chiaro e scuro, leggibile da telefono) |
-| `icon.png` | **Da aggiungere**: l'icona del progetto (consigliata quadrata, 512×512 px) |
+| `icon.png` | Icona del progetto (1024×1024 px) |
 | `.nojekyll` | Dice a GitHub Pages di pubblicare i file così come sono |
 
 Questa cartella è separata dal radar: non contiene codice, dati né chiavi del radar e non va mai unita al suo repository.
 
-## 1. Completa i segnaposto
+## 1. Titolare e contatto
 
-Cerca e sostituisci in tutti e tre i file HTML (evidenziati in giallo nel browser):
-
-- `[NOME TITOLARE]`: il tuo nome e cognome (o la ragione sociale);
-- `[EMAIL DI CONTATTO]`: l'indirizzo email da mostrare ai revisori e a chi vuole esercitare i propri diritti.
-
-Poi aggiungi `icon.png` nella cartella. Controlla il risultato aprendo `index.html` nel browser.
+Titolare: Arcadio Pinto; contatto: mercenariarck@gmail.com (nei tre file HTML, in inglese e in italiano).
 
 ## 2. Crea il repository su GitHub
 
